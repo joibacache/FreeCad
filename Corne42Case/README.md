@@ -1,7 +1,8 @@
-<img width="957" alt="Screenshot 2024-04-25 at 00 37 46" src="https://github.com/joibacache/FreeCad/assets/4139231/c4a980b9-90e6-419d-8b70-3da3937df5b4">
+
+![image](https://github.com/joibacache/FreeCad/assets/4139231/7871eff7-c3f3-4fdd-9046-6473c0489fc5)
 
 ## Case for Corne Keyboard ##
-> Work In Progress
+> *Work In Progress*
 
 My tweaked version of Foostan's CherryMX with added On/Off switch, pads for soldering your battery and smd reset switch.
 
