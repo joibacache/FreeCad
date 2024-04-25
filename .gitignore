@@ -1,6 +1,9 @@
 #Backup Files#
 *.FCBak
 
+#Export Files#
+*.stl
+
 # OS generated files #
 ######################
 .DS_Store
