@@ -3,6 +3,7 @@
 
 #Export Files#
 *.stl
+!/*/Export/*.stl
 
 # OS generated files #
 ######################
