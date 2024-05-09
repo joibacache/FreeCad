@@ -11,7 +11,7 @@ First time creating a 3d model from scratch, the idea is to create a more produc
 
 More information soon.
 
-v0.2
-Created hole to access on/off switch and reset button
-Created hole for usbc port access
-Fixed thumbcluster alignment
+##### v0.2
+* Created hole to access on/off switch and reset button
+* Created hole for usbc port access
+* Fixed thumbcluster alignment
