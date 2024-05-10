@@ -1,5 +1,6 @@
 
-<img width="484" alt="Screenshot 2024-05-09 at 10 07 01" src="https://github.com/joibacache/FreeCad/assets/4139231/875a4c5e-fa10-44ba-a03d-77dc8b983366">
+<img width="651" alt="Screenshot 2024-05-10 at 13 31 20" src="https://github.com/joibacache/FreeCad/assets/4139231/6dc77d33-3c8b-4c10-bd5b-720602e8f5bf">
+
 
 
 ## Case for Corne Keyboard ##
@@ -15,3 +16,8 @@ More information soon.
 * Created hole to access on/off switch and reset button
 * Created hole for usbc port access
 * Fixed thumbcluster alignment
+
+##### v0.3
+* Created a small pocket on bottom half to fit a 500mah 603030 lithium battery
+* Reduced the overall case height for writst comfort improvement
+  
