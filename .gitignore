@@ -2,8 +2,8 @@
 *.FCBak
 
 #Export Files#
-*.stl
-!/*/Export/*/*.stl
+#*.stl
+#!/*/Export/*/*.stl
 
 # OS generated files #
 ######################
